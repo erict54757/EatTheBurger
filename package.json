@@ -1,0 +1,28 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Makes burgers and moves to devoured.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erict54757/Eat-da-Burger.git"
+  },
+  "keywords": [
+    "eat-da-burger"
+  ],
+  "author": "Eric Taft",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/erict54757/Eat-da-Burger/issues"
+  },
+  "homepage": "https://github.com/erict54757/Eat-da-Burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
